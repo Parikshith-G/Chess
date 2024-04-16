@@ -1,0 +1,10 @@
+new_checked_board=[
+    [[False,False],[False,False],[False,False],[False,False],[False,False],[False,False],[False,False],[False,False]],
+    [[False,False],[False,False],[False,False],[False,False],[False,False],[False,False],[False,False],[False,False]],
+    [[False,False],[False,False],[False,False],[False,False],[False,False],[False,False],[False,False],[False,False]],
+    [[False,False],[False,False],[False,False],[False,False],[False,False],[False,False],[False,False],[False,False]],
+    [[False,False],[False,False],[False,False],[False,False],[False,False],[False,False],[False,False],[False,False]],
+    [[False,False],[False,False],[False,False],[False,False],[False,False],[False,False],[False,False],[False,False]],
+    [[False,False],[False,False],[False,False],[False,False],[False,False],[False,False],[False,False],[False,False]],
+    [[False,False],[False,False],[False,False],[False,False],[False,False],[False,False],[False,False],[False,False]]
+]

@@ -1,0 +1,10 @@
+reset_board=[
+    [[False,False],[False,False],[False,False],[False,False],[False,False],[False,False],[False,False],[False,False]],
+    [[False,False],[False,False],[False,False],[False,False],[False,False],[False,False],[False,False],[False,False]],
+    [[False,False],[False,False],[False,False],[False,False],[False,False],[False,False],[False,False],[False,False]],
+    [[False,False],[False,False],[False,False],[False,False],[False,False],[False,False],[False,False],[False,False]],
+    [[False,False],[False,False],[False,False],[False,False],[False,False],[False,False],[False,False],[False,False]],
+    [[False,False],[False,False],[False,False],[False,False],[False,False],[False,False],[False,False],[False,False]],
+    [[False,False],[False,False],[False,False],[False,False],[False,False],[False,False],[False,False],[False,False]],
+    [[False,False],[False,False],[False,False],[False,False],[False,False],[False,False],[False,False],[False,False]]
+]
