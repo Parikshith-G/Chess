@@ -31,3 +31,9 @@ from constants import *
 from beams.initializer import *
 
 from is_king_checked.is_check import is_there_a_check
+
+# Tracks the square a pawn can be captured en passant (algebraic, e.g. "e6"), or None
+en_passant_target = None
+
+# Castling rights: [white_kingside, white_queenside, black_kingside, black_queenside]
+castling_rights = [True, True, True, True]
